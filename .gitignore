@@ -1,0 +1,6 @@
+rnn_based/crawledResults/*
+__pycache__/*
+save/*
+rnn_based/__pycache__/*
+rnn_based/save/*
+rnn_based/preprocessing/*
